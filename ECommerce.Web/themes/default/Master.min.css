@@ -160,9 +160,9 @@ border:none;}
 	background-color: #FFFFDB;
 	}
 .table .id{
-	background-image: url(images/tit.png);
+	/*background-image: url(images/tit.png);
 	background-repeat: repeat-x;
-	background-position: bottom;
+	background-position: bottom;*/
 	width: 20px;
 	padding:0px;
 	text-align: center;
@@ -170,12 +170,11 @@ border:none;}
 .table .id input{ margin:0px;}
 
 .table .act{width:150px;text-align:center;}.table td{padding:3px;}.table th{
-	background-repeat: repeat-x;
-	background-position: bottom;
-	padding: 3px;
+	/*background-repeat: repeat-x;
+	background-position: bottom;	
+	background-image: url(images/box_h3.png);*/
+    padding: 3px;
 	background-color: #E8EDF1;
-	background-image: url(images/box_h3.png);
-	
 }
 .table th, .table td{
 	border-top: none;
@@ -238,8 +237,8 @@ body.pd{
     border-top-right-radius: 3px;
 	line-height: 35px;
 	height: 35px;
-	background-image: linear-gradient(to bottom, #F6F8F8 0px,  #ECF0F1 100%);
-    background-repeat: repeat-x;
+	/*background-image: linear-gradient(to bottom, #F6F8F8 0px,  #ECF0F1 100%);
+    background-repeat: repeat-x;*/
 	
 }.pannel-header.hover{background-color:#FF0;background-image:none;}
 .pannel-header strong{

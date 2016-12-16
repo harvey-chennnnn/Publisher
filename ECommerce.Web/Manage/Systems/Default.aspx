@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta charset="utf-8">
-    <title>沿途后台</title>
+    <title>地图出版社管理系统</title>
     <link href="/themes/default/Master.min.css" rel="stylesheet" type="text/css">
     <link href="/themes/sco.js/css/scojs.css" rel="stylesheet" />
     <script src="/themes/js/jquery.min.js"></script>

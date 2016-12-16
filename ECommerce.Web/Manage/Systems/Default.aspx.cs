@@ -32,18 +32,7 @@ namespace ECommerce.Web.Manage.Systems
             {
                 ECommerce.Admin.Model.OrgEmployees orgEmpl = _orgEmployeesDal.GetModel(int.Parse(CurrentUser.EmplId.ToString()));
                 litUserName.Text = orgEmpl.EmplName;
-                var title = "";
-                if (CurrentUser.Type == 1)
-                {
-                    title = "沿途后台总站管理系统";
-                }
-                else
-                {
-                    var emp = _orgEmployeesDal.GetModel(Convert.ToInt32(CurrentUser.EmplId));
-                    var org = _orgOrganizeDal.GetModel(Convert.ToInt64(emp.OrgId));
-                    title = "沿途后台 " + org.OrgName + "管理系统";
-                }
-                litTitle.Text = title;
+                litTitle.Text = "地图出版社管理系统";
             }
         }
 
