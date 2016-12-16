@@ -1,0 +1,16 @@
+D:\Code\沿途\Travel\trunk\ECommerce.Lib\bin\Release\ECommerce.Lib.dll
+D:\Code\沿途\Travel\trunk\ECommerce.Lib\bin\Release\ECommerce.Lib.pdb
+D:\Code\沿途\Travel\trunk\ECommerce.Lib\bin\Release\ECommerce.Admin.dll
+D:\Code\沿途\Travel\trunk\ECommerce.Lib\bin\Release\ECommerce.DBUtilities.dll
+D:\Code\沿途\Travel\trunk\ECommerce.Lib\bin\Release\ICSharpCode.SharpZipLib.dll
+D:\Code\沿途\Travel\trunk\ECommerce.Lib\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Code\沿途\Travel\trunk\ECommerce.Lib\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Code\沿途\Travel\trunk\ECommerce.Lib\bin\Release\Microsoft.Practices.ObjectBuilder.dll
+D:\Code\沿途\Travel\trunk\ECommerce.Lib\bin\Release\Microsoft.Practices.ServiceLocation.dll
+D:\Code\沿途\Travel\trunk\ECommerce.Lib\bin\Release\Microsoft.Practices.Unity.dll
+D:\Code\沿途\Travel\trunk\ECommerce.Lib\bin\Release\Microsoft.Practices.Unity.Interception.dll
+D:\Code\沿途\Travel\trunk\ECommerce.Lib\bin\Release\ECommerce.Admin.pdb
+D:\Code\沿途\Travel\trunk\ECommerce.Lib\bin\Release\ECommerce.DBUtilities.pdb
+D:\Code\沿途\Travel\trunk\ECommerce.Lib\obj\Release\ECommerce.Lib.csprojResolveAssemblyReference.cache
+D:\Code\沿途\Travel\trunk\ECommerce.Lib\obj\Release\ECommerce.Lib.dll
+D:\Code\沿途\Travel\trunk\ECommerce.Lib\obj\Release\ECommerce.Lib.pdb

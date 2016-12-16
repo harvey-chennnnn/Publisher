@@ -1,0 +1,76 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ECommerce.Web", "ECommerce.Web\ECommerce.Web.csproj", "{CA9BC60C-6C0E-43B0-AB9E-A0FEA13CC156}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ECommerce.DBUtilities", "ECommerce.DBUtilities\ECommerce.DBUtilities.csproj", "{C5B738C6-27D2-497E-8FDB-0B59E27C1D9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ECommerce.Admin", "ECommerce.Admin\ECommerce.Admin.csproj", "{0E625F58-1312-447B-8393-98087031E46D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ECommerce.Lib", "ECommerce.Lib\ECommerce.Lib.csproj", "{9B04DBBC-6A09-4678-92D2-87758B4B75C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ECommerce.CM", "ECommerce.CM\ECommerce.CM.csproj", "{013CF61D-0526-4CB3-85DF-3CDC493CC75C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ECommerce.Area", "ECommerce.Area\ECommerce.Area.csproj", "{B334210A-BFC1-4B72-AEFF-869D11855B7E}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 7
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://chenhui.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = ECommerce.Admin\\ECommerce.Admin.csproj
+		SccProjectName1 = ECommerce.Admin
+		SccLocalPath1 = ECommerce.Admin
+		SccProjectUniqueName2 = ECommerce.Area\\ECommerce.Area.csproj
+		SccProjectName2 = ECommerce.Area
+		SccLocalPath2 = ECommerce.Area
+		SccProjectUniqueName3 = ECommerce.CM\\ECommerce.CM.csproj
+		SccProjectName3 = ECommerce.CM
+		SccLocalPath3 = ECommerce.CM
+		SccProjectUniqueName4 = ECommerce.DBUtilities\\ECommerce.DBUtilities.csproj
+		SccProjectName4 = ECommerce.DBUtilities
+		SccLocalPath4 = ECommerce.DBUtilities
+		SccProjectUniqueName5 = ECommerce.Lib\\ECommerce.Lib.csproj
+		SccProjectName5 = ECommerce.Lib
+		SccLocalPath5 = ECommerce.Lib
+		SccProjectUniqueName6 = ECommerce.Web\\ECommerce.Web.csproj
+		SccProjectName6 = ECommerce.Web
+		SccLocalPath6 = ECommerce.Web
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA9BC60C-6C0E-43B0-AB9E-A0FEA13CC156}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA9BC60C-6C0E-43B0-AB9E-A0FEA13CC156}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA9BC60C-6C0E-43B0-AB9E-A0FEA13CC156}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA9BC60C-6C0E-43B0-AB9E-A0FEA13CC156}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5B738C6-27D2-497E-8FDB-0B59E27C1D9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5B738C6-27D2-497E-8FDB-0B59E27C1D9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5B738C6-27D2-497E-8FDB-0B59E27C1D9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5B738C6-27D2-497E-8FDB-0B59E27C1D9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E625F58-1312-447B-8393-98087031E46D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E625F58-1312-447B-8393-98087031E46D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E625F58-1312-447B-8393-98087031E46D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E625F58-1312-447B-8393-98087031E46D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B04DBBC-6A09-4678-92D2-87758B4B75C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B04DBBC-6A09-4678-92D2-87758B4B75C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B04DBBC-6A09-4678-92D2-87758B4B75C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B04DBBC-6A09-4678-92D2-87758B4B75C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{013CF61D-0526-4CB3-85DF-3CDC493CC75C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{013CF61D-0526-4CB3-85DF-3CDC493CC75C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{013CF61D-0526-4CB3-85DF-3CDC493CC75C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{013CF61D-0526-4CB3-85DF-3CDC493CC75C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B334210A-BFC1-4B72-AEFF-869D11855B7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B334210A-BFC1-4B72-AEFF-869D11855B7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B334210A-BFC1-4B72-AEFF-869D11855B7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B334210A-BFC1-4B72-AEFF-869D11855B7E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+D:\Code\沿途\Travel\trunk\ECommerce.Area\bin\Release\ECommerce.Area.dll
+D:\Code\沿途\Travel\trunk\ECommerce.Area\bin\Release\ECommerce.Area.pdb
+D:\Code\沿途\Travel\trunk\ECommerce.Area\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Code\沿途\Travel\trunk\ECommerce.Area\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Code\沿途\Travel\trunk\ECommerce.Area\bin\Release\Microsoft.Practices.ObjectBuilder.dll
+D:\Code\沿途\Travel\trunk\ECommerce.Area\bin\Release\Microsoft.Practices.ServiceLocation.dll
+D:\Code\沿途\Travel\trunk\ECommerce.Area\bin\Release\Microsoft.Practices.Unity.dll
+D:\Code\沿途\Travel\trunk\ECommerce.Area\bin\Release\Microsoft.Practices.Unity.Interception.dll
+D:\Code\沿途\Travel\trunk\ECommerce.Area\obj\Release\ECommerce.Area.csprojResolveAssemblyReference.cache
+D:\Code\沿途\Travel\trunk\ECommerce.Area\obj\Release\ECommerce.Area.dll
+D:\Code\沿途\Travel\trunk\ECommerce.Area\obj\Release\ECommerce.Area.pdb

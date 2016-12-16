@@ -1,0 +1,1 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="SortPackageType.aspx.cs" Inherits="ECommerce.Web.Manage.Systems.Ajax_Type.SortPackageType" %>
